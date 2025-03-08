@@ -1,0 +1,52 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+/* 배경색 지정 */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+}
+
+/* 제목 디자인 */
+h1 {
+    color: blue;
+    font-size: 32px;
+}
+
+/* 단락 스타일 */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+/* 버튼 스타일 */
+button {
+    background-color: #007BFF;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* 버튼 마우스 호버 효과 */
+button:hover {
+    background-color: #0056b3;
+}
+/* 버튼 스타일 */
+button {
+    background-color: #007BFF;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* 버튼 마우스 호버 효과 */
+button:hover {
+    background-color: #0056b3;
+}
